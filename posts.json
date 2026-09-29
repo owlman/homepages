@@ -1,5 +1,25 @@
 [
   {
+    "title": "NeoVim 使用笔记",
+    "url": "https://www.cnblogs.com/owlman/p/23077541",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Ninja 使用笔记",
+    "url": "https://www.cnblogs.com/owlman/p/22863314",
+    "date": "2026-09-06"
+  },
+  {
+    "title": "AI 学习笔记：LLM 的微调实验",
+    "url": "https://www.cnblogs.com/owlman/p/22806036",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "AI 学习笔记：关于机器恐惧症的个人观点汇总",
+    "url": "https://www.cnblogs.com/owlman/p/22453671",
+    "date": "2026-08-13"
+  },
+  {
     "title": "AI 学习笔记：补充 OpenClaw",
     "url": "https://www.cnblogs.com/owlman/p/21727495",
     "date": "2026-07-21"
@@ -10,7 +30,7 @@
     "date": "2026-07-19"
   },
   {
-    "title": "AI 学习笔记：由 Palantir CEO 的观点所展开的行业观察",
+    "title": "AI 学习笔记：基于美国现状的 AI 行业观察",
     "url": "https://www.cnblogs.com/owlman/p/21242292",
     "date": "2026-07-08"
   },
@@ -28,30 +48,5 @@
     "title": "AI 学习笔记：补充 Hermes Agent",
     "url": "https://www.cnblogs.com/owlman/p/20033069",
     "date": "2026-05-13"
-  },
-  {
-    "title": "AI 学习笔记：Agent 的记忆机制",
-    "url": "https://www.cnblogs.com/owlman/p/19854861",
-    "date": "2026-04-12"
-  },
-  {
-    "title": "AI 学习笔记：Agent 的能力体系",
-    "url": "https://www.cnblogs.com/owlman/p/19669961",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "AI 学习笔记：Agent 的基础应用",
-    "url": "https://www.cnblogs.com/owlman/p/19623216",
-    "date": "2026-02-18"
-  },
-  {
-    "title": "AI 学习笔记：LLM 的部署与测试",
-    "url": "https://www.cnblogs.com/owlman/p/19588513",
-    "date": "2026-02-07"
-  },
-  {
-    "title": "关于 AI 的学习路线图",
-    "url": "https://www.cnblogs.com/owlman/p/19560606",
-    "date": "2026-02-01"
   }
 ]
