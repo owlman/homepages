@@ -55,4 +55,4 @@ bash tools/install-hook.sh
 
 ## 版权
 
-本项目过于简单，不作任何声明，任何人都可以随意使用项目中的代码，不必告知本人。
+本项目以 [MIT License](./LICENSE) 协议开源，欢迎自由使用与二次分发。详见根目录下的 `LICENSE` 文件。
